@@ -1,0 +1,5 @@
+08.06.25
+Display is working yay
+
+08.09.25
+Ability to change screen color and move a dot around when keys are pressed
